@@ -51,6 +51,10 @@ This project analyzes IBM HR data to identify key drivers of employee attrition 
 4. **Remote/flex options can help** – Distance from home is a strong factor.
 5. **Longer tenure = loyalty** – Employees with time invested are more likely to stay.
 
+<img width="574" alt="Top Features Impacting IBM Attrition with Strategic Insights" src="https://github.com/user-attachments/assets/308ff76a-12bc-4050-927f-d97f43487f67" />
+<img width="913" alt="Top 15 Most Important Features in IBM Attrition" src="https://github.com/user-attachments/assets/53b04940-8d7a-444f-a094-e980a67bddae" />
+
+
 ---
 
 ## 🎯 Strategic Recommendations
